@@ -17,3 +17,7 @@
 5. **`EE456Final Project.mp4`**: A video presentation of the project, illustrating the working of the Auto Encoder CNN in solving the maze problems and showcasing the project's outcomes.
 
 _The project demonstrates the effectiveness of an Auto Encoder CNN in solving path finding problems in mazes, highlighting the capability of neural networks in feature extraction and image reconstruction._
+
+Here are links to my other work in EE456
+1. Implemented with pytorch: [cifar-cnn](https://github.com/Efesasa0/cifar-cnn.git)
+2. Implemented with MatLAB: [mlp-backprop](https://github.com/Efesasa0/mlp-backprop-two-moons.git)
